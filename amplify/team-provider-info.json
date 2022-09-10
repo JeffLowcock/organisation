@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-organisation-dev-82043-authRole",
+      "UnauthRoleArn": "arn:aws:iam::852776511963:role/amplify-organisation-dev-82043-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::852776511963:role/amplify-organisation-dev-82043-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-organisation-dev-82043-deployment",
+      "UnauthRoleName": "amplify-organisation-dev-82043-unauthRole",
+      "StackName": "amplify-organisation-dev-82043",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:852776511963:stack/amplify-organisation-dev-82043/76cf10d0-30e1-11ed-bad3-064fff3f1668",
+      "AmplifyAppId": "d26eowh8lo4pjv"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-organisation-test-82857-authRole",
+      "UnauthRoleArn": "arn:aws:iam::852776511963:role/amplify-organisation-test-82857-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::852776511963:role/amplify-organisation-test-82857-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-organisation-test-82857-deployment",
+      "UnauthRoleName": "amplify-organisation-test-82857-unauthRole",
+      "StackName": "amplify-organisation-test-82857",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:852776511963:stack/amplify-organisation-test-82857/9d3260a0-30e2-11ed-b735-06faedceac20",
+      "AmplifyAppId": "d26eowh8lo4pjv"
+    }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-organisation-prod-83111-authRole",
+      "UnauthRoleArn": "arn:aws:iam::852776511963:role/amplify-organisation-prod-83111-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::852776511963:role/amplify-organisation-prod-83111-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-organisation-prod-83111-deployment",
+      "UnauthRoleName": "amplify-organisation-prod-83111-unauthRole",
+      "StackName": "amplify-organisation-prod-83111",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:852776511963:stack/amplify-organisation-prod-83111/ed6bf1d0-30e2-11ed-b510-06c50f1d066c",
+      "AmplifyAppId": "d26eowh8lo4pjv"
+    }
+  }
+}
